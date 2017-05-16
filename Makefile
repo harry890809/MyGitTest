@@ -37,3 +37,4 @@ else ifeq ($(CONFIG_MTK_FAN5405_SUPPORT),y)
 	obj-$(CONFIG_MTK_SMART_BATTERY) += switch_charging.o
 else
 
+# end of the Makefile
